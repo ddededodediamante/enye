@@ -28,7 +28,7 @@
   ],
   "license": "CC0-1.0",
   "author": "ddededodediamante",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "types": "./index.d.ts",
   "scripts": {
