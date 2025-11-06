@@ -1,0 +1,36 @@
+{
+  "name": "enye",
+  "version": "1.0.0",
+  "description": "Have you ever wanted to send the letter ñ easily? Well, now you can! (It works.)",
+  "keywords": [
+    "ñ",
+    "Ñ",
+    "enye",
+    "letter",
+    "alphabet",
+    "keywords",
+    "key",
+    "keyboard",
+    "yay",
+    "i",
+    "love",
+    "the",
+    "letter",
+    "spanish",
+    "español",
+    "useful",
+    "ddededodediamante",
+    "error",
+    "uppercase",
+    "spicy",
+    "style",
+    "history"
+  ],
+  "license": "CC0-1.0",
+  "author": "ddededodediamante",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
