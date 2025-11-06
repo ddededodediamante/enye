@@ -22,7 +22,9 @@ yarn add enye-generator
 ## Quick Start
 
 ```js
-import EnyeGenerator from "enye-generator";
+import { EnyeGenerator, enye } from "enye-generator";
+
+console.log(enye); // ñ
 
 const enye = new EnyeGenerator({
   amount: 5,
