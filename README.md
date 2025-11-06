@@ -8,13 +8,13 @@ It supports multiple styles, randomization, 2D/3D ñs, and more.
 ## Installation
 
 ```bash
-npm install enye-generator
+npm install enye
 ```
 
 Or with Yarn:
 
 ```bash
-yarn add enye-generator
+yarn add enye
 ```
 
 ---
@@ -22,7 +22,7 @@ yarn add enye-generator
 ## Quick Start
 
 ```js
-import { EnyeGenerator, enye } from "enye-generator";
+import { EnyeGenerator, enye } from "enye";
 
 console.log(enye); // ñ
 
